@@ -15,7 +15,7 @@ jsonschema==3.2.0
 lxml==4.5.0
 MarkupSafe==1.1.1
 nltk==3.4.5
-numpy==1.18.1
+numpy==1.22.0
 pyrsistent==0.15.7
 pytz==2019.3
 scikit-learn==0.22.1
